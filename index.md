@@ -1,2 +1,2 @@
 ## Welcome to TeeSoft.COM
-[JustDB](https://justdb.github.io)
+[JustDB: wysiwyg database management tools](https://justdb.github.io)
