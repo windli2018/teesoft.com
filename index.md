@@ -1,2 +1,2 @@
-## Welcome to Teesoft.COM
+## Welcome to TeeSoft.COM
 [JustDB](https://justdb.github.io)
